@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096405246804",
+    "project_id": "price-list-30147",
+    "storage_bucket": "price-list-30147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096405246804:android:7feba3533fc536d3f19ec1",
+        "android_client_info": {
+          "package_name": "com.example.prielist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAV6FXX1GtsJNp6v-gi__JinJ1pTI0Kdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
